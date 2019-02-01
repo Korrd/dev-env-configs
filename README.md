@@ -1,2 +1,3 @@
-# dev-env-configs
-A repo to persist various dev-env configs and related stuff
+# Vic's awesome dev-env configs
+
+This repo contains configs for various IDEs and stuff I found to be cool.
